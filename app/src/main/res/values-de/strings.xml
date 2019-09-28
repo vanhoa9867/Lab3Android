@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="welcome">Willkommen im Six Senses Resort</string>
+    <string name="pool">Unser Schwimmbad</string>
+    <string name="reserve">Jetzt reservieren!</string>
+</resources>
